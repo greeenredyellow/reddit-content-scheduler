@@ -29,9 +29,13 @@ The project is intended to respect Reddit's Developer Terms, applicable API limi
 
 ## API Access and Development Status
 
-Development has not started. The developer is currently evaluating whether the desired external scheduling workflow can be supported by Reddit's Developer Platform (Devvit), or whether separate API authorization would be required.
+**Status: Planning and API access evaluation**
 
-No Reddit API access or publishing functionality is claimed or implied by this repository.
+Reddit Content Scheduler is currently in the planning phase. An API access request has been submitted to Reddit to determine the appropriate integration method for the proposed application.
+
+Development will follow Reddit's applicable developer requirements, including any necessary authorization or use of the Reddit Developer Platform (Devvit).
+
+The project's initial focus is responsible content scheduling and management for authorized Reddit communities.
 
 ## Repository Scope
 
